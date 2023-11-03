@@ -40,7 +40,7 @@
                     Memory
                 </span>
                 <span class="ml-auto items-end text-slate-600 text-xl">
-                    80 / 100
+                    92 / 100
                 </span>
             </div>
 
@@ -50,7 +50,7 @@
                     Verbal
                 </span>
                 <span class="ml-auto items-end text-slate-600 text-xl">
-                    80 / 100
+                    61 / 100
                 </span>
             </div>
 
@@ -60,7 +60,7 @@
                     Visual
                 </span>
                 <span class="ml-auto items-end text-slate-600 text-xl">
-                    80 / 100
+                    72 / 100
                 </span>
             </div>
 
