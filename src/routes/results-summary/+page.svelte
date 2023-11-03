@@ -1,4 +1,8 @@
-<div class="h-full bg-slate-100">
+<svelte:head>
+    <title>Results Summary</title>
+</svelte:head>
+
+<div class="bg-slate-100">
     <div class="container mx-auto my-auto">
         <div class="flex flex-col items-center justify-center bg-blue-600 rounded-b-3xl">
             <span class="text-slate-300 text-xl pt-4 pb-4">
